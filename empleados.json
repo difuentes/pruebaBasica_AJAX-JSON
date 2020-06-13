@@ -1,0 +1,20 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Diego",
+          "empresa" : "DvLans",
+          "trabajo" : "Desarrollador front end"
+     },
+     {
+          "id" : 2,
+          "nombre" : "Rodrigo",
+          "empresa" : "Bennu",
+          "trabajo" : "Programador Full Java"
+     },
+     {
+          "id" : 3,
+          "nombre" : "MetalMachine",
+          "empresa" : "El mismisimo",
+          "trabajo" : "Aplicaciones Móviles y todo "
+     }
+]
